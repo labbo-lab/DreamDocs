@@ -1,10 +1,6 @@
----
+# Homepage
+Welcome to DreamBerd, a *perfect* programming language!
 
+## Overview
 
----
-
-<h1 id="homepage">Homepage</h1>
-<p>Welcome to DreamBerd, a <em>perfect</em> programming language!</p>
-<h2 id="overview">Overview</h2>
-<p>[Exclamation Marks!</p>
-
+[Exclamation Marks!](/Exclamation%20Marks!.md)
